@@ -1,0 +1,3 @@
+1. Overview of the homework.
+2. Philosofy...
+3. Learning Terminal (a bit) and Git (a bit more).
